@@ -1,0 +1,9 @@
+pip install gradio
+pip install flask==2.0.2
+pip install tensorflow==2.12.0
+pip install werkzeug==2.0.2
+pip install flask-cors
+pip install pillow
+pip install langchain_google_genai
+pip install google-generativeai
+pip install langchain

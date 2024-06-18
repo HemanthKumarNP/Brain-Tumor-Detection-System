@@ -1,0 +1,1 @@
+ return jsonify({'status':True,'prediction': tumor_type})
