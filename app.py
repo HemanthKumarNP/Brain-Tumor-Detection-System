@@ -21,7 +21,7 @@ from langchain.prompts import PromptTemplate
 import google.generativeai as genai
 from pathlib import Path
 from langchain_core.messages import HumanMessage
-os.environ["GOOGLE_API_KEY"] = "AIzaSyC-g-Aje-k87XP0Mx2QUMIoob5xkFh92lI"
+os.environ["GOOGLE_API_KEY"] = "Your Gemini Api Key"
 
 llm = ChatGoogleGenerativeAI(model="gemini-pro-vision")
 
